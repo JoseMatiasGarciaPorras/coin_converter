@@ -2,7 +2,7 @@ import conversor
 
 if __name__ == '__main__':
     try:
-        print('********** COIN CONVERTER **********')
+        print('********** COIN CONVERTER 💰 **********')
         initial_coin = int(input('''
         Ingresa el índice de la moneda que quieres convertir: 
             [1] Dolar.
